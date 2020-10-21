@@ -32,9 +32,9 @@ I'm .NET developer, but I've already learned C, Java, Python, Go, Delphi, JS and
 
 I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this moment I'm looking foward more challenges for my career.
 
-<strong>Gamer</strong> 🎮 | <strong>Fascinated by technology</strong> :computer: | <strong>Movies and series</strong> :popcorn:
-
 ---
+
+<strong>Gamer</strong> 🎮 | <strong>Fascinated by technology</strong> :computer: | <strong>Movies and series</strong> :popcorn:
 
 **Languages and Tools:**  
 
