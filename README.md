@@ -30,7 +30,7 @@ Hi, my name is Victor Mello, I'm 26 years old and I was born in Rio de Janeiro, 
 
 I'm .NET developer, but I've already learned C, Java, Python, Go, Delphi, JS and stuff.
 
-I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this moment I'm looking foward new challenges for my career.
+I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this moment I'm looking forward new challenges for my career.
 
 ---
 
