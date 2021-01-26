@@ -10,7 +10,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/VictorMello1993">
-  <img align="left" alt="Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
 </a>
 </br>
 
