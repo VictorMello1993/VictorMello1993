@@ -4,13 +4,13 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/victormello1993/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/shgysk8zer0/logos/blob/master/instagram.svg" />
 </a>
 <a target="_blank" href="mailto:victorsmello93@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/VictorMello1993">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
 </a>
 </br>
 
