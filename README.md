@@ -1,7 +1,7 @@
 <h2>:globe_with_meridians: Follow on social medias</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/victor-mello-083486117/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/victormello1993/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
