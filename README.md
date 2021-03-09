@@ -46,5 +46,6 @@ I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello1993&hide=Python&langs_count=7&theme=dark)](https://github.com/VictorMello1993/github-readme-stats)
