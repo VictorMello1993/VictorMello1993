@@ -49,4 +49,4 @@ I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this 
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello1993&hide=Python&langs_count=7&theme=dark)](https://github.com/VictorMello1993/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello1993&hide=Python&langs_count=4&theme=dark)](https://github.com/VictorMello1993/github-readme-stats)
