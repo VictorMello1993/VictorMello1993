@@ -32,15 +32,17 @@ I'm .NET developer, but I've already learned C, Java, Python, Go, Delphi, JS and
 
 I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this moment I'm looking for new challenges for my career.
 
+---
 
 <h1>My Stats</h1>
 
 
-
 [![Victor Mello's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMello1993)](https://github.com/VictorMello1993/github-readme-stats)
 
-
 ---
+
+</br>
+
 <h1>Hobbies</h1>
 <strong>Gamer</strong> 🎮 | <strong>Fascinated by technology</strong> :computer: | <strong>Movies and series</strong> :popcorn:
 
