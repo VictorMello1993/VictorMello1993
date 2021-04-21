@@ -47,6 +47,7 @@ I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this 
 <strong>Gamer</strong> 🎮 | <strong>Fascinated by technology</strong> :computer: | <strong>Movies and series</strong> :popcorn:
 
 <br/>
+<br/>
 
 <h1>Languages and Tools</h1>
 
