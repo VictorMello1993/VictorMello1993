@@ -34,7 +34,10 @@ I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this 
 
 
 <h1>My Stats</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Victor Mello's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMello1993)](https://github.com/VictorMello1993/github-readme-stats)
 
 
 ---
