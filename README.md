@@ -32,10 +32,8 @@ I'm .NET developer, but I've already learned C, Java, Python, Go, Delphi, JS and
 
 I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this moment I'm looking for new challenges for my career.
 
----
+
 <h1>My Stats</h1>
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -45,7 +43,7 @@ I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this 
 
 <br/>
 
-**Languages and Tools:**  
+<h1>Languages and Tools</h1>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
