@@ -42,7 +42,7 @@ I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this 
 ---
 
 <h1>Hobbies</h1>
-<strong>Gamer</strong> 🎮 | <strong>Fascinated by technology</strong> :computer: | <strong>Movies and series</strong> :popcorn:
+:video_game: <strong>Games</strong> | :popcorn: <strong>Movies and series</strong> 
 
 <br/>
 <br/>
