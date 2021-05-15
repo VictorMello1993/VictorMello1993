@@ -21,7 +21,7 @@ Olá, meu nome é Victor Mello, tenho 27 anos e sou de Rio Janeiro, Brasil.
 
 Sou programador .NET, mas já programei C, Java, Python, Go, Delphi, JS entre outras linguagens.
 
-Sou formado em Engenharia da Computação na Universidade Veiga de Almeida e nesse momento estou em busca de novos desafios para minha carreira.
+Sou formado em Engenharia da Computação, e nesse momento estou em busca de novos desafios para minha carreira.
 
 ---
 <h1>EN-US</h1>
@@ -30,7 +30,7 @@ Hi, my name is Victor Mello, I'm 27 years old and I was born in Rio de Janeiro, 
 
 I'm .NET developer, but I've already learned C, Java, Python, Go, Delphi, JS and stuff.
 
-I'm graduated in Computer Engineering at Universidade Veiga de Almeida and this moment I'm looking for new challenges for my career.
+I'm graduated in Computer Engineering, and this moment I'm looking for new challenges for my career.
 
 ---
 
