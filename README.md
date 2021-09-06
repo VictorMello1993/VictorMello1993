@@ -17,37 +17,20 @@
 --- 
 <h1>PT-BR</h1>
 
-Olá, meu nome é Victor Mello, tenho 27 anos e sou de Rio Janeiro, Brasil. 
-
-Sou programador .NET, mas já programei C, Java, Python, Go, Delphi, JS entre outras linguagens.
-
-Sou formado em Engenharia da Computação, e nesse momento estou em busca de novos desafios para minha carreira.
+Olá, meu nome é Victor Mello, tenho 27 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, e atualmente sou desenvolvedor .NET Júnior, mas em busca de novas oportunidades. Também programo Javascript com Node.js, Typescript, e nesse momento estou estudando Vue.js para aprimorar meus conhecimentos de front-end. Em paralelo a isso, também iniciei os estudos sobre cloud, mais especificamente com AWS, Docker, conhecimentos avançados de .NET, como ASP.NET Core, Entity Framework e arquitetura de microsserviços. 
 
 ---
 <h1>EN-US</h1>
 
-Hi, my name is Victor Mello, I'm 27 years old and I was born in Rio de Janeiro, Brazil.
-
-I'm .NET developer, but I've already learned C, Java, Python, Go, Delphi, JS and among others.
-
-I'm graduated in Computer Engineering, and this moment I'm looking for new challenges for my career.
+Hello, my name is Victor Mello, I'm 27 and I'm from Rio de Janeiro, Brazil. I have degree in Computer Engineering and this moment I'm .NET developer, but looking forward new opportunities. I also code Javascript with Node.js, Typescript, and I'm currently studying Vue.js to improve Front-end skills. In parallel to this, I also started to study cloud computing, specially AWS, Docker, advanced knowledges of .NET, such as ASP.NET Core, Entity Framework and microservices architecture. 
 
 ---
 
-<h1>My Stats</h1>
-
-
-[![Victor Mello's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMello1993&theme=dark)](https://github.com/VictorMello1993/github-readme-stats)
-
----
-
-<h1>Hobbies</h1>
-:video_game: <strong>Games</strong> | :popcorn: <strong>Movies and series</strong> 
-
-<br/>
-<br/>
-
-<h1>Languages and Tools</h1>
+ <div>
+  <a href="https://github.com/VictorMello1993">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMello1993&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello1993&layout=compact&hide=Python&langs_count=7&theme=dark"/>
+</div>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -55,8 +38,3 @@ I'm graduated in Computer Engineering, and this moment I'm looking for new chall
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello1993&hide=Python&langs_count=8&theme=dark)](https://github.com/VictorMello1993/github-readme-stats)
