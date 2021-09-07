@@ -20,6 +20,7 @@
 </a>
 </br>
 
+<h1>PT-BR</h1>
 Olá, meu nome é Victor Mello, tenho 27 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, e atualmente sou desenvolvedor .NET Júnior, mas em busca de novas oportunidades. Também programo Javascript com Node.js, Typescript, e nesse momento estou estudando Vue.js para aprimorar meus conhecimentos de front-end. Em paralelo a isso, também iniciei os estudos sobre cloud, mais especificamente com AWS, Docker, conhecimentos avançados de .NET, como ASP.NET Core, Entity Framework e arquitetura de microsserviços. 
 
 <h1>EN-US</h1>
