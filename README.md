@@ -36,7 +36,7 @@ Hello, my name is Victor Mello, I'm 27 and I'm from Rio de Janeiro, Brazil. I ha
 
 <br>
 
-Languages and tools which I'm currently using:
+<h3>Languages and tools which I'm currently using:</h3>
 <div style="display: inline_block">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="ASP.NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -47,18 +47,14 @@ Languages and tools which I'm currently using:
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">  
 </div>
 
-<br>
-
-I'm currently studying:
+<h3>I'm currently studying:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">  
 </div>
 
-<br>
-
-Languages and tools which I've been thinking to study in the future:
+<h3>Languages and tools which I've been thinking to study in the future:</h3>
 <div style="display: inline_block">
   <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
