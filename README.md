@@ -20,14 +20,6 @@
 </a>
 </br>
 
-<!-- ![br](https://user-images.githubusercontent.com/35710766/132268990-6ca6dd73-fdea-4eb4-a0cb-ad78ee7b0900.jpg) -->
-<!-- ![eua](https://user-images.githubusercontent.com/35710766/132268996-088337a8-e23e-4c39-a8d9-8f86d6894cf6.png) -->
-
-<div style="padding-right: 200px">
-  <img src="https://user-images.githubusercontent.com/35710766/132268990-6ca6dd73-fdea-4eb4-a0cb-ad78ee7b0900.jpg" width="40px"/>
-</div>
-  
-
 Olá, meu nome é Victor Mello, tenho 27 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, e atualmente sou desenvolvedor .NET Júnior, mas em busca de novas oportunidades. Também programo Javascript com Node.js, Typescript, e nesse momento estou estudando Vue.js para aprimorar meus conhecimentos de front-end. Em paralelo a isso, também iniciei os estudos sobre cloud, mais especificamente com AWS, Docker, conhecimentos avançados de .NET, como ASP.NET Core, Entity Framework e arquitetura de microsserviços. 
 
 <h1>EN-US</h1>
