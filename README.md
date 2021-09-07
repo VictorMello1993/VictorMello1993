@@ -1,4 +1,4 @@
-<h2>:globe_with_meridians: Follow on social medias</h2>
+<h2>:globe_with_meridians: Follow on social media</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/victor-mello-083486117/">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
