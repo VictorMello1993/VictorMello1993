@@ -12,12 +12,6 @@
 <a target="_blank" href="https://www.instagram.com/victormello1993/">
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a target="_blank" href="https://steamcommunity.com/id/VictorMello93/">
-  <img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
-<a target="_blank" href="https://www.twitch.tv/victor_mello1993">
-  <img align="left" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
 </br>
 
 <br/>
