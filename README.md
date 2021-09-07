@@ -58,10 +58,8 @@ I'm currently studying:
 
 Languages and tools which I've been thinking to study in the future:
 <div style="display: inline_block">
-  <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">  
   <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">  
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">    
-  <img align="center" alt="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">      
 </div>
