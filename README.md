@@ -1,19 +1,24 @@
 <h2>:globe_with_meridians: Follow on social medias</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/victor-mello-083486117/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/victormello1993/">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/shgysk8zer0/logos/blob/master/instagram.svg" />
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:victorsmello93@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://twitter.com/VictorMello1993">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
+  <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a target="_blank" href="https://steamcommunity.com/id/VictorMello93/">
+  <img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+<a target="_blank" href="https://www.twitch.tv/victor_mello1993">
+  <img align="left" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 </br>
-
 
 <h1>PT-BR</h1>
 
