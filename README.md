@@ -21,12 +21,11 @@
 </br>
 
 <h1>PT-BR</h1>
+![eua](https://user-images.githubusercontent.com/35710766/132268690-59f8e459-4628-4823-bcd3-ccf53c877b11.png)
 
 Olá, meu nome é Victor Mello, tenho 27 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, e atualmente sou desenvolvedor .NET Júnior, mas em busca de novas oportunidades. Também programo Javascript com Node.js, Typescript, e nesse momento estou estudando Vue.js para aprimorar meus conhecimentos de front-end. Em paralelo a isso, também iniciei os estudos sobre cloud, mais especificamente com AWS, Docker, conhecimentos avançados de .NET, como ASP.NET Core, Entity Framework e arquitetura de microsserviços. 
 
-
 <h1>EN-US</h1>
-
 Hello, my name is Victor Mello, I'm 27 and I'm from Rio de Janeiro, Brazil. I have degree in Computer Engineering and this moment I'm .NET developer, but looking forward new opportunities. I also code Javascript with Node.js, Typescript, and I'm currently studying Vue.js to improve Front-end skills. In parallel to this, I also started to study cloud computing, specially AWS, Docker, advanced knowledges of .NET, such as ASP.NET Core, Entity Framework and microservices architecture. 
 
 ##
