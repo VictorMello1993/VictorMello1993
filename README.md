@@ -33,7 +33,7 @@ Hello, my name is Victor Mello, I'm 27 and I'm from Rio de Janeiro, Brazil. I ha
 
 <br>
 
-<h3>Languages and tools which I'm currently using:</h3>
+<h3>Languages and tools which I'm currently using and improving:</h3>
 <div style="display: inline_block">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="ASP.NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
