@@ -27,7 +27,7 @@ Hello, my name is Victor Mello, I'm 28 years old and I'm from Rio de Janeiro, Br
 
 <div>
   <a href="https://github.com/VictorMello1993"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMello1993&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMello1993&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs,issues"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMello1993&layout=compact&hide=Python&langs_count=7&theme=dark"/>
 </div>
 
