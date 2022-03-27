@@ -21,7 +21,7 @@
 Olá, meu nome é Victor Mello, tenho 28 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, e atualmente sou desenvolvedor .NET Júnior, mas em busca de novas oportunidades. Também programo Javascript com Node.js, Typescript, e nesse momento estou estudando Vue.js para aprimorar meus conhecimentos de front-end. Em paralelo a isso, também iniciei os estudos sobre cloud, mais especificamente com AWS, Docker, conhecimentos avançados de .NET, como ASP.NET Core, Entity Framework e arquitetura de microsserviços. 
 
 <h1><img align="left" alt="Bandeira dos Estados Unidos" width="75px" src="https://user-images.githubusercontent.com/35710766/132272047-76901047-63a9-47aa-9dfc-c3eb59b634d1.png" />EN-US</h1>
-Hello, my name is Victor Mello, I'm 28 and I'm from Rio de Janeiro, Brazil. I have degree in Computer Engineering and today I'm .NET developer, but looking forward new opportunities. I also code Javascript with Node.js, Typescript, and I'm currently studying Vue.js to improve my front-end skills. In parallel to this, I also started to study cloud computing, specially AWS, Docker, advanced knowledges of .NET, such as ASP.NET Core, Entity Framework and microservices architecture. 
+Hello, my name is Victor Mello, I'm 28 years old and I'm from Rio de Janeiro, Brazil. I have degree in Computer Engineering and today I'm .NET developer, but looking forward new opportunities. I also code Javascript with Node.js, Typescript, and I'm currently studying Vue.js to improve my front-end skills. In parallel to this, I also started to study cloud computing, specially AWS, Docker, advanced knowledges of .NET, such as ASP.NET Core, Entity Framework and microservices architecture. 
 
 ##
 
