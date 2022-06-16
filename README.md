@@ -48,7 +48,7 @@ Hello, my name is Victor Mello, I'm 28 years old and I'm from Rio de Janeiro, Br
 <div style="display: inline_block">
   <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">    
+  <img align="center" alt="Nest.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">    
 </div>
 
 <h3>Languages and tools which I've been thinking to study in the future:</h3>
