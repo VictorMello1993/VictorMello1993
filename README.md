@@ -60,5 +60,3 @@ Hello, my name is Victor Mello, I'm 29 years old and I'm from Rio de Janeiro, Br
   <img align="center" alt="MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">  
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">    
 </div>
-
-![Snake animation](https://github.com/VictorMello1993/VictorMello1993/blob/output/github-contribution-grid-snake.svg)
