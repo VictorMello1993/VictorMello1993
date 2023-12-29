@@ -18,10 +18,10 @@
 
 
 <h1><img align="left" alt="Bandeira do Brasil" width="75px" src="https://user-images.githubusercontent.com/35710766/132271878-2c5462bb-1d15-4f37-9ff4-a48c6aea4012.jpg" />PT-BR</h1>
-Olá, meu nome é Victor Mello, tenho 29 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, pós graduado em Desenvolvimento Web Full Stack e atualmente sou desenvolvedor.NET. Também programo Javascript / Typescript com Node.js, e estou estudando outros tópicos como DevOps e me aperfeiçoando no front-end, especificamente React e Angular.
+Olá, meu nome é Victor Mello, tenho 30 anos e sou de Rio Janeiro, Brasil. Sou formado em Engenharia da Computação, pós graduado em Desenvolvimento Web Full Stack e atualmente sou desenvolvedor.NET. Também programo Javascript / Typescript com Node.js, e estou estudando outros tópicos como DevOps, Arquitetura de Software (design patterns, DDD, Clean Architecture, modelagem de domínio, Arquietura Hexagonal, etc) e me aperfeiçoando no front-end, especificamente React e Angular.
 
 <h1><img align="left" alt="Bandeira dos Estados Unidos" width="75px" src="https://user-images.githubusercontent.com/35710766/132272047-76901047-63a9-47aa-9dfc-c3eb59b634d1.png" />EN-US</h1>
-Hello, my name is Victor Mello, I'm 29 years old and I'm from Rio de Janeiro, Brazil. I have degree in Computer Engineering, post graduate in Fullstack Web Development and I'm currently .NET developer. I also code in Javascript / Typescript with Node.js and I'm studying other topics such as DevOps and enhancing my front-end skills, specifically React and Angular.
+Hello, my name is Victor Mello, I'm 30 years old and I'm from Rio de Janeiro, Brazil. I have degree in Computer Engineering, post graduate in Fullstack Web Development and I'm currently .NET developer. I also code in Javascript / Typescript with Node.js and I'm studying other topics such as DevOps, Software Archiecture(design patterns, DDD, Clean Architecture, domain model, Hexagonal Architecture, etc) and enhancing my front-end skills, specifically React and Angular.
 
 ##
 
