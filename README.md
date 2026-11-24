@@ -6,10 +6,6 @@
 <a target="_blank" href="mailto:victorsmello93@gmail.com">
   <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/victormello1993/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</br>
 
 <br/>
 
